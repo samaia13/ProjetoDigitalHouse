@@ -1,0 +1,13 @@
+h1 {
+  background-color: purple;
+  background-image: url("banner.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 5px solid pink;
+  border-bottom: 5px solid pink;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 320;
+  padding: 38px 24px;
+  text-shadow: 4px 4px 4px #000;
